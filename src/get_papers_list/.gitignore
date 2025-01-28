@@ -1,0 +1,4 @@
+Pubmed/
+__pycache__/
+*.lock
+.env
